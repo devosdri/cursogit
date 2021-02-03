@@ -60,3 +60,6 @@ esto es pa cuando jode que no se quiere conectar
 clonar en una pc el repositorio completo de lo que existe en un git hub
 imaginate que se te perdio la carpeta. pues con esto se jala
     git clone url
+
+
+jode el login
