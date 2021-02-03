@@ -55,3 +55,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 esto es pa cuando jode que no se quiere conectar 
 	git push --set-upstream origin master
+
+
+clonar en una pc el repositorio completo de lo que existe en un git hub
+imaginate que se te perdio la carpeta. pues con esto se jala
+    git clone url
